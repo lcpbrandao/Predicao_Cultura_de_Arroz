@@ -3,7 +3,7 @@
 ![arroz](arroz.jpg)
 # Projeto de Predição da Cultura de Arroz
 
-* Projeto para a etapa de seleção para a ***Residência Tecnológica em Ciência de Dados e Analytics para o setor Automotivo*.
+* Projeto para a etapa de seleção para a ***Residência Tecnológica em Ciência de Dados e Analytics para o setor Automotivo**.
 * Parceria Universidade de Pernambuco/Poli - Fiat Chrysler Automobiles/Jeep - FACEPE
 * Outubro, 2020
 
